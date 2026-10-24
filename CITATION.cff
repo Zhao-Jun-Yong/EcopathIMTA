@@ -3,6 +3,7 @@ message: "If you use this code or data, please cite it as below, together with t
 type: software
 title: "EcopathIMTA: data and R code for Ecopath models of seawater and freshwater integrated multi-trophic aquaculture"
 version: 1.0.0
+doi: "10.5281/zenodo.23615487"
 repository-code: "https://github.com/Zhao-Jun-Yong/EcopathIMTA-data"
 license: MIT
 authors:

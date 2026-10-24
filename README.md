@@ -1,5 +1,7 @@
 # EcopathIMTA
 
+DOI: [10.5281/zenodo.23615487](https://doi.org/10.5281/zenodo.23615487)
+
 Data and R code for:
 
 Yong, Z.-J., Lin, W.-J., Wu, Y.-C., Lee, Y.-C., Lin, H.-J. Trophic structure and plant-based feed substitution in integrated multi-trophic aquaculture: An Ecopath modeling approach.
