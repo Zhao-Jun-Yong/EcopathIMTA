@@ -1,0 +1,37 @@
+{
+  "title": "EcopathIMTA: data and R code for Ecopath models of seawater and freshwater integrated multi-trophic aquaculture",
+  "upload_type": "software",
+  "description": "<p>Processed input data and R code supporting the article <em>Trophic structure and plant-based feed substitution in integrated multi-trophic aquaculture: An Ecopath modeling approach</em>. The code builds Rpath mass-balance models of a seawater (mud crab, red algae) and a freshwater (sea bass, tilapia, duckweed) IMTA system in Taiwan (2024), runs red algae and duckweed feed-substitution gradient scenarios, computes ecosystem indices and avoided feed emissions, and propagates pedigree-based parameter uncertainty by Monte Carlo. It reproduces Tables 1-5, S1-S3 and S5 and Figures 1-3 and S2 of the article.</p><p>Code: MIT License. Data (data/): CC BY 4.0. The raw field records of the Fisheries Research Institute, Taiwan, are not included.</p>",
+  "license": "MIT",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "Yong, Zhao-Jun",
+      "orcid": "0009-0001-7718-4122",
+      "affiliation": "Department of Life Sciences, National Chung Hsing University; Innovation and Development Center of Sustainable Agriculture, National Chung Hsing University, Taichung, Taiwan"
+    },
+    {
+      "name": "Lin, Wei-Jen",
+      "affiliation": "Department of Biological Resources, National Chiayi University, Chiayi, Taiwan"
+    },
+    {
+      "name": "Wu, Yu-Chen",
+      "affiliation": "Mariculture Research Center, Fisheries Research Institute, Ministry of Agriculture, Tainan, Taiwan"
+    },
+    {
+      "name": "Lee, Yao-Chen",
+      "affiliation": "Freshwater Aquaculture Research Center, Fisheries Research Institute, Ministry of Agriculture, Chupei, Taiwan"
+    },
+    {
+      "name": "Lin, Hsing-Juh",
+      "affiliation": "Department of Life Sciences, National Chung Hsing University; Innovation and Development Center of Sustainable Agriculture, National Chung Hsing University, Taichung; Department of Oceanography, National Sun Yat-sen University, Kaohsiung, Taiwan"
+    }
+  ],
+  "keywords": [
+    "Ecopath",
+    "Rpath",
+    "integrated multi-trophic aquaculture",
+    "feed substitution",
+    "greenhouse gas emissions"
+  ]
+}

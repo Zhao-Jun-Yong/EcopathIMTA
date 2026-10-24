@@ -1,0 +1,11 @@
+year,type,water,species,group,area_m2
+2024,imta,sw,crab,C,1000
+2024,imta,sw,crab,T,1000
+2024,imta,sw,plant,C,1000
+2024,imta,sw,plant,T,1000
+2024,imta,fw,fish,C,136
+2024,imta,fw,fish,T1,135
+2024,imta,fw,fish,T2,146
+2024,imta,fw,plant,C,67
+2024,imta,fw,plant,T1,51
+2024,imta,fw,plant,T2,51

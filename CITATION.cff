@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below, together with the associated article."
+type: software
+title: "EcopathIMTA: data and R code for Ecopath models of seawater and freshwater integrated multi-trophic aquaculture"
+version: 1.0.0
+repository-code: "https://github.com/Zhao-Jun-Yong/EcopathIMTA"
+license: MIT
+authors:
+  - family-names: Yong
+    given-names: Zhao-Jun
+    orcid: "https://orcid.org/0009-0001-7718-4122"
+    affiliation: "Department of Life Sciences, National Chung Hsing University; Innovation and Development Center of Sustainable Agriculture, National Chung Hsing University, Taichung, Taiwan"
+  - family-names: Lin
+    given-names: Wei-Jen
+    affiliation: "Department of Biological Resources, National Chiayi University, Chiayi, Taiwan"
+  - family-names: Wu
+    given-names: Yu-Chen
+    affiliation: "Mariculture Research Center, Fisheries Research Institute, Ministry of Agriculture, Tainan, Taiwan"
+  - family-names: Lee
+    given-names: Yao-Chen
+    affiliation: "Freshwater Aquaculture Research Center, Fisheries Research Institute, Ministry of Agriculture, Chupei, Taiwan"
+  - family-names: Lin
+    given-names: Hsing-Juh
+    affiliation: "Department of Life Sciences, National Chung Hsing University; Innovation and Development Center of Sustainable Agriculture, National Chung Hsing University, Taichung; Department of Oceanography, National Sun Yat-sen University, Kaohsiung, Taiwan"
+keywords:
+  - Ecopath
+  - Rpath
+  - integrated multi-trophic aquaculture
+  - feed substitution
+  - greenhouse gas emissions
